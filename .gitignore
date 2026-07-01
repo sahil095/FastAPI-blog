@@ -9,4 +9,5 @@ wheels/
 # Virtual environments
 .venv
 
-/media/profile_pics/*
+media/profile_pics/*
+!media/profile_pics/.gitkeep
